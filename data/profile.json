@@ -1,8 +1,8 @@
 {
   "contact": {
-    "phone": "+123 45 678 90 12",
-    "email": "mail@benitogoiii.com",
-    "website": "https://www.benitogoiii.com",
+    "phone": "+63 917 5109305",
+    "email": "benitogothethird@hotmail.com",
+    "website": "",
     "location": "Manila, Philippines"
   },
   "skills": [
@@ -202,16 +202,16 @@
   "summary": "I am an IT professional with more than 8 years of experience in software design and development, embedded systems and network programming. \nI am interested in pursuing a long-term career in embedded or web development.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
+      "institution": "University of the Philippines - Visayas",
+      "degree": "BS Computer Science",
+      "start": "2007",
+      "end": "2011"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Philippines Science High School System",
+      "degree": "High School",
+      "start": "2003",
+      "end": "2007"
     }
   ],
   "experience": [
@@ -267,32 +267,16 @@
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
-    },
-    {
-      "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://www.linkedin.com/in/benito-iii-go-9b7ba61b6/"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
+      "url": "https://github.com/nitoygo"
     },
     {
       "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
-    },
-    {
-      "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.facebook.com/nitoy.go"
     }
   ],
   "role": "Senior Software Engineer",
