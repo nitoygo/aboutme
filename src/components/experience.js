@@ -10,7 +10,15 @@ const Experience = ({ data }) => (
           <h3 className="item-sub">
             {item.company} | {item.start} - {item.end || 'PRESENT'}
           </h3>
-          <p className="py-6">{item.description}</p>
+          <ul>
+          {
+            item.description.split('\n').map((desc, i) => (
+              <li>
+                {desc}
+              </li>
+            ))
+          }
+          </ul>
         </article>
       ))}
   </section>
