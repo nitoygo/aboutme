@@ -202,67 +202,46 @@
   "summary": "I am an IT professional with more than 8 years of experience in software design and development, embedded systems and network programming. \nI am interested in pursuing a long-term career in embedded or web development.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
+      "institution": "University of the Philippines, Visayas",
+      "degree": "BS Computer Science",
+      "start": "2007",
+      "end": "2011"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Philippine Science High School System - EVC",
+      "degree": "Secondary",
+      "start": "2003",
+      "end": "2007"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
+      "role": "Senior Software Engineer",
+      "company": "CANON INFORMATION TECHNOLOGIES PHILIPPINES, INC",
+      "description": "Led and coordinated development and verification strategies for various printer networking modules with customer\nTrained new engineers to be deployed in project\nOrganized and conducted a company-wide workshop on web development using Node.js",
+      "start": "2019",
       "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "Senior Software Engineer",
+      "company": "CANON IMAGING SYSTEMS INC (NIIGATA, JAPAN)",
+      "description": "Developed a UI for an application in Canon printer using a Java template engine\nDesigned and developed a secured transport for scanner data\nDesigned and developed a report maker used by several printer network applications for device diagnostics\nDesigned and developed a web service in printer for importing and exporting user settings",
+      "start": "2018",
+      "end": "2019"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
+      "role": "Senior Software Engineer",
+      "company": "CANON I-TECH INC (TOKYO, JAPAN)",
+      "description": "Handled project communication (between PH and JP counterparts), management and development for both wired and wireless networking modules for Canon printers\nCreated an application that monitors customer requests and  auto-creates internal ticket using Redmine REST APIs",
+      "start": "2016",
+      "end": "2017"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Software Engineer",
+      "company": "CANON INFORMATION TECHNOLOGIES PHILIPPINES, INC",
+      "description": "Designed, developed, and maintained printer network applications and protocol stack such as HTTP, HTTP/2, SSL, Web Services, BLE, 6LoWPAN, USB Proxy among others\nResearch and development of network libraries and features to be included in Canon printer products",
+      "start": "2012",
+      "end": "2015"
     }
   ],
   "social": [
