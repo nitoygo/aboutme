@@ -1,4 +1,4 @@
-# Gatsby Starter Resume CMS
+# My Online CV Using Gatsby Starter Resume CMS
 
 ![resume-template](./preview.png "Gatsby resume template")
 
